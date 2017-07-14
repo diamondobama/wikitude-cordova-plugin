@@ -1,2 +1,2 @@
 [remote "origin"]
-    lfsurl = ssh://git@github.com/Wikitude/wikitude-cordova-plugin.git
+    lfsurl = git@github.com/Wikitude/wikitude-cordova-plugin.git
